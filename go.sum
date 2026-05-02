@@ -1,0 +1,6 @@
+github.com/FyersDev/fyers-go-sdk v1.2.0 h1:mUyxmpQc4XAe5wvHDLIwoKr0kvxmlQsLEarwcixb9ck=
+github.com/FyersDev/fyers-go-sdk v1.2.0/go.mod h1:E0VU14Pc/1vfk13Z3hPHj6Bkgcw5RRx7W9+ayp82a/E=
+github.com/gorilla/websocket v1.5.3 h1:saDtZ6Pbx/0u+bgYQ3q96pZgCzfhKXGPqt7kZ72aNNg=
+github.com/gorilla/websocket v1.5.3/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/sainipankaj15/All-In-One-Broker v1.8.6 h1:9OS1PF6QI5Kh12DwnOrcp/2Y8D90L5fdh1m0AczcO7o=
+github.com/sainipankaj15/All-In-One-Broker v1.8.6/go.mod h1:9yrxWuDrV0v/3SNTt7+cjTdMrT7PgEY+k8YzDgVU/Ro=
