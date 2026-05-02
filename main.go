@@ -114,7 +114,7 @@ func onMessage(message fyersws.DataResponse) {
 			return
 		}
 
-		// 🔥 Best Bid/Ask (Level 1)
+		// Best Bid/Ask (Level 1)
 		fmt.Printf("[DP] %s | Bid: %.2f (%d) | Ask: %.2f (%d)\n",
 			data.Symbol,
 			data.BidPrice1, data.BidSize1,
@@ -123,7 +123,6 @@ func onMessage(message fyersws.DataResponse) {
 	default:
 		// ignore but already logged
 		return
-
 	}
 
 }
